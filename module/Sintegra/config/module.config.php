@@ -13,6 +13,7 @@ return array(
                 'options' => array(
                     'route'    => '/sintegra[/:id]',
                     'defaults' => array(
+                        '__NAMESPACE__' => 'Sintegra\Controller',
                         'controller' => 'Sintegra\Controller\Sintegra',
                     ),
                 ),
