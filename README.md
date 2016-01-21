@@ -3,7 +3,7 @@ Sample Rest App
 
 Installation
 ------------
-1. Clone the repository: git clone https://github.com/GilTSN/mvc-sample-app.git
+1. Clone the repository: git clone https://github.com/GilTSN/sample_rest_app.git
 
 2. Install the dependencies: composer install
 
